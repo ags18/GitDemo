@@ -2,4 +2,5 @@ This is file 3 for demo purpose
 
 
 this is branch bug 123
-this file is modified 
+this file is modified outside branch
+this file is modified inseide branch bug456 
